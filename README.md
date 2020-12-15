@@ -14,5 +14,5 @@ Hello there!
 
 <details>
 <summary>Generated markov from #playground</summary>
-<@376012343777427457>: You asked to be reminded 6 hours ago about add internet ivan to <#655851658773004298>.
+Ok <@!376012343777427457>, I'll remind you in 5 seconds ago about something
 </details>
