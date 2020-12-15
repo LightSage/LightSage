@@ -13,6 +13,6 @@ Hello there!
 
 
 <details>
-<summary>Generated markov from #playground</summary>
-You asked to be reminded 6 hours about add internet ivan to <#655851658773004298> in 8h
+<summary>Generated markov from #general</summary>
+intents are a meme. it was an accident
 </details>
