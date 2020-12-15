@@ -13,6 +13,6 @@ Hello there!
 
 
 <details>
-<summary>Generated markov from #vguide-alert</summary>
-__Title__: NEW 3DS EXPLOIT : THE BROWSERHAX XL FOR NEW 3DS 11.14
+<summary>Generated markov from #shitposting</summary>
+damn the whole tiddy
 </details>
