@@ -13,6 +13,6 @@ Hello there!
 
 
 <details>
-<summary>Generated markov from #general</summary>
-intents are a meme. it was an accident
+<summary>Generated markov from #vguide-alert</summary>
+__Title__: NEW 3DS EXPLOIT : THE BROWSERHAX XL FOR NEW 3DS 11.14
 </details>
