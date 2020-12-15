@@ -13,6 +13,6 @@ Hello there!
 
 
 <details>
-<summary>Generated markov from #vguide-alert</summary>
-mothefucker already made a video on a picture
+<summary>Generated markov from #shitposting</summary>
+Am I just stupid or are you pinging me with
 </details>
