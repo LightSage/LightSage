@@ -13,6 +13,6 @@ Hello there!
 
 
 <details>
-<summary>Generated markov from #playground</summary>
-Ok <@!376012343777427457>, I'll remind you in 5 seconds ago about something
+<summary>Generated markov from #vguide-alert</summary>
+mothefucker already made a video on a picture
 </details>
