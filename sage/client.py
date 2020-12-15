@@ -5,7 +5,8 @@ import discord
 from .markov import do_markov
 from .pfp import get_pfp
 
-client = discord.Client(status=discord.Status.do_not_disturb, activity=discord.Game("generating stuff..."))
+client = discord.Client(status=discord.Status.do_not_disturb,
+                        activity=discord.Game("generating stuff..."))
 
 
 @client.event
