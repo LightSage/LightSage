@@ -14,5 +14,5 @@ Hello there!
 
 <details>
 <summary>Generated markov from #shitposting</summary>
-Am I just stupid or are you pinging me with
+If someone has to get frii no u?
 </details>
