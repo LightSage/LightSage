@@ -13,6 +13,6 @@ Hello there!
 
 
 <details>
-<summary>Generated markov from #shitposting</summary>
-damn the whole tiddy
+<summary>Generated markov from #playground</summary>
+None
 </details>
