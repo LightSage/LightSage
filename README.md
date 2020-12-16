@@ -12,7 +12,9 @@ Hello there!
 - Github PFP Sauce: https://www.pixiv.net/en/artworks/70160872
 
 
-<details>
-<summary>Generated markov from #shitposting</summary>
-inb4 it is shit
-</details>
+## 🖼️ Catpost!
+
+<sub>
+    <img src="https://cdn2.thecatapi.com/images/ZVxJ9JIYm.jpg" height="256">
+</sub>
+
