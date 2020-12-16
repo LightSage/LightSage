@@ -1,4 +1,7 @@
 from jinja2 import Environment, FileSystemLoader
+import os
+
+TOKEN = os.getenv("DISCORD_TOKEN", None)
 
 JINJA_ENV = Environment(loader=FileSystemLoader('templates'))
 
@@ -13,5 +16,7 @@ MARKOV_CHANNEL_IDS = [527997150206885888,  # playground
                       527887970980724758,  # shitposting
                       528374893977403402,  # general
                       655851658773004298,  # vguide-alert
+                      625474940342370324,  # webhooks-and-projects
                       ]
 MARKOV_LIMIT = 500
+MAKROV_SEND_CHANNEL = 625474940342370324

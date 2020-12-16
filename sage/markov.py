@@ -4,7 +4,8 @@ import json
 
 import markovify
 
-from .constants import MARKOV_GUILD_ID, MARKOV_CHANNEL_IDS, MARKOV_LIMIT
+from .constants import (MARKOV_GUILD_ID, MARKOV_CHANNEL_IDS, MARKOV_LIMIT,
+                        MAKROV_SEND_CHANNEL)
 
 
 async def do_markov(client):
@@ -25,16 +26,14 @@ async def do_markov(client):
         model = markovify.NewlineText('\n'.join(msgs))
         return model.compile()
 
-    genned = await client.loop.run_in_executor(None, compile_markov)
+    model = await client.loop.run_in_executor(None, compile_markov)
 
-    with open("sage/constants.json", "r") as fp:
-        x = json.load(fp)
+    channel = guild.get_channel(MAKROV_SEND_CHANNEL)
+    if not channel:
+        return
 
-    sentence = genned.make_sentence(tries=100)
-    if sentence is None:
-        sentence = genned.make_sentence()
-
-    x['markov'] = {'channel_name': channel.name, 'text': sentence}
-
-    with open("sage/constants.json", "w") as fp:
-        json.dump(x, fp)
+    for x in range(5):
+        sentence = model.make_sentence(tries=100)
+        if sentence is None:
+            sentence = model.make_sentence()
+        await channel.send(sentence)
