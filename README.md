@@ -13,6 +13,6 @@ Hello there!
 
 
 <details>
-<summary>Generated markov from #general</summary>
-Are you able to DM the bot is only using 90 MiB of ram atm
+<summary>Generated markov from #shitposting</summary>
+inb4 it is shit
 </details>
