@@ -15,21 +15,21 @@ Hello there!
 ## 🖼️ Catpost!
 
 <sub>
-    <img src="https://cdn2.thecatapi.com/images/Mt-cUeiUY.jpg" height="256">
+    <img src="https://cdn2.thecatapi.com/images/CDhOtM-Ig.jpg" height="256">
 </sub>
 
 
 <details>
 <summary>More about the breed(s) shown:</summary>
 
-Breed: Oriental
+Breed: Himalayan
 
-Description: Orientals are passionate about the people in their lives. They become extremely attached to their humans, so be prepared for a lifetime commitment. When you are not available to entertain her, an Oriental will divert herself by jumping on top of the refrigerator, opening drawers, seeking out new hideaways.
+Description: Calm and devoted, Himalayans make excellent companions, though they prefer a quieter home. They are playful in a sedate kind of way and enjoy having an assortment of toys. The Himalayan will stretch out next to you, sleep in your bed and even sit on your lap when she is in the mood.
 
 Links:
 <ul>
-  <li>CFA http://cfa.org/Breeds/BreedsKthruR/Oriental.aspx</li>
-  <li>Wikipedia https://en.wikipedia.org/wiki/Oriental_Shorthair</li>
+  <li>CFA None available</li>
+  <li>Wikipedia https://en.wikipedia.org/wiki/Himalayan_(cat)</li>
 </ul> 
 
 </details>
