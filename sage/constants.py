@@ -19,5 +19,5 @@ MARKOV_CHANNEL_IDS = [527997150206885888,  # playground
                       625474940342370324,  # webhooks-and-projects
                       788981447708508220,  # markovo
                       ]
-MARKOV_LIMIT = 500
+MARKOV_LIMIT = 650
 MAKROV_SEND_CHANNEL = 788981447708508220  # markovo
