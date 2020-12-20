@@ -31,3 +31,4 @@ jobs:
           git add README.md
           git commit -m "Auto generated README commit"
           git push
+    timeout-minutes: 15 # should be good enough 
