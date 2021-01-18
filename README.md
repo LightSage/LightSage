@@ -15,6 +15,6 @@ Hello there!
 ## 🖼️ Catpost!
 
 <sub>
-    <img src="https://cdn2.thecatapi.com/images/MTk3NzI4OQ.jpg" height="256">
+    <img src="https://cdn2.thecatapi.com/images/nIUN5P4Ct.jpg" height="256">
 </sub>
 
