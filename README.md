@@ -15,21 +15,21 @@ Hello there!
 ## 🖼️ Catpost!
 
 <sub>
-    <img src="https://cdn2.thecatapi.com/images/0VDLLByGi.jpg" height="256">
+    <img src="https://cdn2.thecatapi.com/images/0lKfGvesZ.jpg" height="256">
 </sub>
 
 
 <details>
 <summary>More about the breed(s) shown:</summary>
 
-Breed: Nebelung
+Breed: Somali
 
-Description: The Nebelung may have a reserved nature, but she loves to play (being especially fond of retrieving) and enjoys jumping or climbing to high places where she can study people and situations at her leisure before making up her mind about whether she wants to get involved.
+Description: The Somali lives life to the fullest. He climbs higher, jumps farther, plays harder. Nothing escapes the notice of this highly intelligent and inquisitive cat. Somalis love the company of humans and other animals.
 
 Links:
 <ul>
-  <li>CFA None available</li>
-  <li>Wikipedia https://en.wikipedia.org/wiki/Nebelung</li>
+  <li>CFA http://cfa.org/Breeds/BreedsSthruT/Somali.aspx</li>
+  <li>Wikipedia https://en.wikipedia.org/wiki/Somali_(cat)</li>
 </ul> 
 
 </details>
