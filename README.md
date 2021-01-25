@@ -15,21 +15,21 @@ Hello there!
 ## 🖼️ Catpost!
 
 <sub>
-    <img src="https://cdn2.thecatapi.com/images/0lKfGvesZ.jpg" height="256">
+    <img src="https://cdn2.thecatapi.com/images/DBmIBhhyv.jpg" height="256">
 </sub>
 
 
 <details>
 <summary>More about the breed(s) shown:</summary>
 
-Breed: Somali
+Breed: Balinese
 
-Description: The Somali lives life to the fullest. He climbs higher, jumps farther, plays harder. Nothing escapes the notice of this highly intelligent and inquisitive cat. Somalis love the company of humans and other animals.
+Description: Balinese are curious, outgoing, intelligent cats with excellent communication skills. They are known for their chatty personalities and are always eager to tell you their views on life, love, and what you’ve served them for dinner. 
 
 Links:
 <ul>
-  <li>CFA http://cfa.org/Breeds/BreedsSthruT/Somali.aspx</li>
-  <li>Wikipedia https://en.wikipedia.org/wiki/Somali_(cat)</li>
+  <li>CFA http://cfa.org/Breeds/BreedsAB/Balinese.aspx</li>
+  <li>Wikipedia https://en.wikipedia.org/wiki/Balinese_(cat)</li>
 </ul> 
 
 </details>
