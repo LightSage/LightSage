@@ -15,21 +15,21 @@ Hello there!
 ## 🖼️ Catpost!
 
 <sub>
-    <img src="https://cdn2.thecatapi.com/images/EzYYrmFp7.jpg" height="256">
+    <img src="https://cdn2.thecatapi.com/images/4UTnt4f74.jpg" height="256">
 </sub>
 
 
 <details>
 <summary>More about the breed(s) shown:</summary>
 
-Breed: Egyptian Mau
+Breed: Scottish Fold
 
-Description: The Egyptian Mau is gentle and reserved. She loves her people and desires attention and affection from them but is wary of others. Early, continuing socialization is essential with this sensitive and sometimes shy cat, especially if you plan to show or travel with her. Otherwise, she can be easily startled by unexpected noises or events.
+Description: The Scottish Fold is a sweet, charming breed. She is an easy cat to live with and to care for. She is affectionate and is comfortable with all members of her family. Her tail should be handled gently. Folds are known for sleeping on their backs, and for sitting with their legs stretched out and their paws on their belly. This is called the "Buddha Position".
 
 Links:
 <ul>
-  <li>CFA http://cfa.org/Breeds/BreedsCJ/EgyptianMau.aspx</li>
-  <li>Wikipedia https://en.wikipedia.org/wiki/Egyptian_Mau</li>
+  <li>CFA http://cfa.org/Breeds/BreedsSthruT/ScottishFold.aspx</li>
+  <li>Wikipedia https://en.wikipedia.org/wiki/Scottish_Fold</li>
 </ul> 
 
 </details>
