@@ -15,21 +15,21 @@ Hello there!
 ## 🖼️ Catpost!
 
 <sub>
-    <img src="https://cdn2.thecatapi.com/images/aMcspzvtg.jpg" height="256">
+    <img src="https://cdn2.thecatapi.com/images/neW1xzZv4.jpg" height="256">
 </sub>
 
 
 <details>
 <summary>More about the breed(s) shown:</summary>
 
-Breed: Siberian
+Breed: Norwegian Forest Cat
 
-Description: The Siberians dog like temperament and affection makes the ideal lap cat and will live quite happily indoors. Very agile and powerful, the Siberian cat can easily leap and reach high places, including the tops of refrigerators and even doors. 
+Description: The Norwegian Forest Cat is a sweet, loving cat. She appreciates praise and loves to interact with her parent. She makes a loving companion and bonds with her parents once she accepts them for her own. She is still a hunter at heart. She loves to chase toys as if they are real. She is territorial and patrols several times each day to make certain that all is fine.
 
 Links:
 <ul>
-  <li>CFA http://cfa.org/Breeds/BreedsSthruT/Siberian.aspx</li>
-  <li>Wikipedia https://en.wikipedia.org/wiki/Siberian_(cat)</li>
+  <li>CFA http://cfa.org/Breeds/BreedsKthruR/NorwegianForestCat.aspx</li>
+  <li>Wikipedia https://en.wikipedia.org/wiki/Norwegian_Forest_Cat</li>
 </ul> 
 
 </details>
