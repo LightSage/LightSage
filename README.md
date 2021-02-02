@@ -15,21 +15,21 @@ Hello there!
 ## 🖼️ Catpost!
 
 <sub>
-    <img src="https://cdn2.thecatapi.com/images/O4yjcTJOh.jpg" height="256">
+    <img src="https://cdn2.thecatapi.com/images/Rhj-JsTLP.jpg" height="256">
 </sub>
 
 
 <details>
 <summary>More about the breed(s) shown:</summary>
 
-Breed: Siamese
+Breed: Russian Blue
 
-Description: While Siamese cats are extremely fond of their people, they will follow you around and supervise your every move, being talkative and opinionated. They are a demanding and social cat, that do not like being left alone for long periods.
+Description: Russian Blues are very loving and reserved. They do not like noisy households but they do like to play and can be quite active when outdoors. They bond very closely with their owner and are known to be compatible with other pets.
 
 Links:
 <ul>
-  <li>CFA http://cfa.org/Breeds/BreedsSthruT/Siamese.aspx</li>
-  <li>Wikipedia https://en.wikipedia.org/wiki/Siamese_(cat)</li>
+  <li>CFA http://cfa.org/Breeds/BreedsKthruR/RussianBlue.aspx</li>
+  <li>Wikipedia https://en.wikipedia.org/wiki/Russian_Blue</li>
 </ul> 
 
 </details>
