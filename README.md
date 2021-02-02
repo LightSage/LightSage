@@ -15,21 +15,21 @@ Hello there!
 ## 🖼️ Catpost!
 
 <sub>
-    <img src="https://cdn2.thecatapi.com/images/o9t0LDcsa.jpg" height="256">
+    <img src="https://cdn2.thecatapi.com/images/O4yjcTJOh.jpg" height="256">
 </sub>
 
 
 <details>
 <summary>More about the breed(s) shown:</summary>
 
-Breed: Scottish Fold
+Breed: Siamese
 
-Description: The Scottish Fold is a sweet, charming breed. She is an easy cat to live with and to care for. She is affectionate and is comfortable with all members of her family. Her tail should be handled gently. Folds are known for sleeping on their backs, and for sitting with their legs stretched out and their paws on their belly. This is called the "Buddha Position".
+Description: While Siamese cats are extremely fond of their people, they will follow you around and supervise your every move, being talkative and opinionated. They are a demanding and social cat, that do not like being left alone for long periods.
 
 Links:
 <ul>
-  <li>CFA http://cfa.org/Breeds/BreedsSthruT/ScottishFold.aspx</li>
-  <li>Wikipedia https://en.wikipedia.org/wiki/Scottish_Fold</li>
+  <li>CFA http://cfa.org/Breeds/BreedsSthruT/Siamese.aspx</li>
+  <li>Wikipedia https://en.wikipedia.org/wiki/Siamese_(cat)</li>
 </ul> 
 
 </details>
