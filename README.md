@@ -15,21 +15,21 @@ Hello there!
 ## 🖼️ Catpost!
 
 <sub>
-    <img src="https://cdn2.thecatapi.com/images/VsaXX13yt.jpg" height="256">
+    <img src="https://cdn2.thecatapi.com/images/0eVXT8_lb.jpg" height="256">
 </sub>
 
 
 <details>
 <summary>More about the breed(s) shown:</summary>
 
-Breed: Siamese
+Breed: Oriental
 
-Description: While Siamese cats are extremely fond of their people, they will follow you around and supervise your every move, being talkative and opinionated. They are a demanding and social cat, that do not like being left alone for long periods.
+Description: Orientals are passionate about the people in their lives. They become extremely attached to their humans, so be prepared for a lifetime commitment. When you are not available to entertain her, an Oriental will divert herself by jumping on top of the refrigerator, opening drawers, seeking out new hideaways.
 
 Links:
 <ul>
-  <li>CFA http://cfa.org/Breeds/BreedsSthruT/Siamese.aspx</li>
-  <li>Wikipedia https://en.wikipedia.org/wiki/Siamese_(cat)</li>
+  <li>CFA http://cfa.org/Breeds/BreedsKthruR/Oriental.aspx</li>
+  <li>Wikipedia https://en.wikipedia.org/wiki/Oriental_Shorthair</li>
 </ul> 
 
 </details>
