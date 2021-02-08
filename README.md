@@ -15,21 +15,21 @@ Hello there!
 ## 🖼️ Catpost!
 
 <sub>
-    <img src="https://cdn2.thecatapi.com/images/e9GFNGkwq.jpg" height="256">
+    <img src="https://cdn2.thecatapi.com/images/xnzzM6MBI.jpg" height="256">
 </sub>
 
 
 <details>
 <summary>More about the breed(s) shown:</summary>
 
-Breed: Tonkinese
+Breed: Abyssinian
 
-Description: Intelligent and generous with their affection, a Tonkinese will supervise all activities with curiosity. Loving, social, active, playful, yet content to be a lap cat
+Description: The Abyssinian is easy to care for, and a joy to have in your home. They’re affectionate cats and love both people and other animals.
 
 Links:
 <ul>
-  <li>CFA http://cfa.org/Breeds/BreedsSthruT/Tonkinese.aspx</li>
-  <li>Wikipedia https://en.wikipedia.org/wiki/Tonkinese_(cat)</li>
+  <li>CFA http://cfa.org/Breeds/BreedsAB/Abyssinian.aspx</li>
+  <li>Wikipedia https://en.wikipedia.org/wiki/Abyssinian_(cat)</li>
 </ul> 
 
 </details>
