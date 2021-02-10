@@ -15,21 +15,21 @@ Hello there!
 ## 🖼️ Catpost!
 
 <sub>
-    <img src="https://cdn2.thecatapi.com/images/wJyw82pIl.jpg" height="256">
+    <img src="https://cdn2.thecatapi.com/images/wMndw0twO.jpg" height="256">
 </sub>
 
 
 <details>
 <summary>More about the breed(s) shown:</summary>
 
-Breed: Norwegian Forest Cat
+Breed: Munchkin
 
-Description: The Norwegian Forest Cat is a sweet, loving cat. She appreciates praise and loves to interact with her parent. She makes a loving companion and bonds with her parents once she accepts them for her own. She is still a hunter at heart. She loves to chase toys as if they are real. She is territorial and patrols several times each day to make certain that all is fine.
+Description: The Munchkin is an outgoing cat who enjoys being handled. She has lots of energy and is faster and more agile than she looks. The shortness of their legs does not seem to interfere with their running and leaping abilities.
 
 Links:
 <ul>
-  <li>CFA http://cfa.org/Breeds/BreedsKthruR/NorwegianForestCat.aspx</li>
-  <li>Wikipedia https://en.wikipedia.org/wiki/Norwegian_Forest_Cat</li>
+  <li>CFA None available</li>
+  <li>Wikipedia https://en.wikipedia.org/wiki/Munchkin_(cat)</li>
 </ul> 
 
 </details>
