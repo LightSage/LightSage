@@ -15,21 +15,21 @@ Hello there!
 ## 🖼️ Catpost!
 
 <sub>
-    <img src="https://cdn2.thecatapi.com/images/OjnSd2N2p.jpg" height="256">
+    <img src="https://cdn2.thecatapi.com/images/apl8POz9w.jpg" height="256">
 </sub>
 
 
 <details>
 <summary>More about the breed(s) shown:</summary>
 
-Breed: Munchkin
+Breed: Exotic Shorthair
 
-Description: The Munchkin is an outgoing cat who enjoys being handled. She has lots of energy and is faster and more agile than she looks. The shortness of their legs does not seem to interfere with their running and leaping abilities.
+Description: The Exotic Shorthair is a gentle friendly cat that has the same personality as the Persian. They love having fun, don’t mind the company of other cats and dogs, also love to curl up for a sleep in a safe place. Exotics love their own people, but around strangers they are cautious at first. Given time, they usually warm up to visitors.
 
 Links:
 <ul>
-  <li>CFA None available</li>
-  <li>Wikipedia https://en.wikipedia.org/wiki/Munchkin_(cat)</li>
+  <li>CFA http://cfa.org/Breeds/BreedsCJ/Exotic.aspx</li>
+  <li>Wikipedia https://en.wikipedia.org/wiki/Exotic_Shorthair</li>
 </ul> 
 
 </details>
