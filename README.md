@@ -15,21 +15,21 @@ Hello there!
 ## 🖼️ Catpost!
 
 <sub>
-    <img src="https://cdn2.thecatapi.com/images/oxuem0v7U.jpg" height="256">
+    <img src="https://cdn2.thecatapi.com/images/wsnU-GMvB.jpg" height="256">
 </sub>
 
 
 <details>
 <summary>More about the breed(s) shown:</summary>
 
-Breed: Egyptian Mau
+Breed: Munchkin
 
-Description: The Egyptian Mau is gentle and reserved. She loves her people and desires attention and affection from them but is wary of others. Early, continuing socialization is essential with this sensitive and sometimes shy cat, especially if you plan to show or travel with her. Otherwise, she can be easily startled by unexpected noises or events.
+Description: The Munchkin is an outgoing cat who enjoys being handled. She has lots of energy and is faster and more agile than she looks. The shortness of their legs does not seem to interfere with their running and leaping abilities.
 
 Links:
 <ul>
-  <li>CFA http://cfa.org/Breeds/BreedsCJ/EgyptianMau.aspx</li>
-  <li>Wikipedia https://en.wikipedia.org/wiki/Egyptian_Mau</li>
+  <li>CFA None available</li>
+  <li>Wikipedia https://en.wikipedia.org/wiki/Munchkin_(cat)</li>
 </ul> 
 
 </details>
