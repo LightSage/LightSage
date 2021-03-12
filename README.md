@@ -15,21 +15,21 @@ Hello there!
 ## 🖼️ Catpost!
 
 <sub>
-    <img src="https://cdn2.thecatapi.com/images/jUY0Dt5iB.jpg" height="256">
+    <img src="https://cdn2.thecatapi.com/images/9cbCzlbJt.jpg" height="256">
 </sub>
 
 
 <details>
 <summary>More about the breed(s) shown:</summary>
 
-Breed: Bambino
+Breed: Snowshoe
 
-Description: The Bambino is a breed of cat that was created as a cross between the Sphynx and the Munchkin breeds. The Bambino cat has short legs, large upright ears, and is usually hairless. They love to be handled and cuddled up on the laps of their family members.
+Description: The Snowshoe is a vibrant, energetic, affectionate and intelligent cat. They love being around people which makes them ideal for families, and becomes unhappy when left alone for long periods of time. Usually attaching themselves to one person, they do whatever they can to get your attention.
 
 Links:
 <ul>
   <li>CFA None available</li>
-  <li>Wikipedia https://en.wikipedia.org/wiki/Bambino_cat</li>
+  <li>Wikipedia https://en.wikipedia.org/wiki/Snowshoe_(cat)</li>
 </ul> 
 
 </details>
