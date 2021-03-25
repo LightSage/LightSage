@@ -15,21 +15,21 @@ Hello there!
 ## 🖼️ Catpost!
 
 <sub>
-    <img src="https://cdn2.thecatapi.com/images/4iJauwTck.jpg" height="256">
+    <img src="https://cdn2.thecatapi.com/images/u3V0SSE-F.jpg" height="256">
 </sub>
 
 
 <details>
 <summary>More about the breed(s) shown:</summary>
 
-Breed: Egyptian Mau
+Breed: Exotic Shorthair
 
-Description: The Egyptian Mau is gentle and reserved. She loves her people and desires attention and affection from them but is wary of others. Early, continuing socialization is essential with this sensitive and sometimes shy cat, especially if you plan to show or travel with her. Otherwise, she can be easily startled by unexpected noises or events.
+Description: The Exotic Shorthair is a gentle friendly cat that has the same personality as the Persian. They love having fun, don’t mind the company of other cats and dogs, also love to curl up for a sleep in a safe place. Exotics love their own people, but around strangers they are cautious at first. Given time, they usually warm up to visitors.
 
 Links:
 <ul>
-  <li>CFA http://cfa.org/Breeds/BreedsCJ/EgyptianMau.aspx</li>
-  <li>Wikipedia https://en.wikipedia.org/wiki/Egyptian_Mau</li>
+  <li>CFA http://cfa.org/Breeds/BreedsCJ/Exotic.aspx</li>
+  <li>Wikipedia https://en.wikipedia.org/wiki/Exotic_Shorthair</li>
 </ul> 
 
 </details>
