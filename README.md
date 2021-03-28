@@ -15,21 +15,21 @@ Hello there!
 ## 🖼️ Catpost!
 
 <sub>
-    <img src="https://cdn2.thecatapi.com/images/PKblw2RPe.jpg" height="256">
+    <img src="https://cdn2.thecatapi.com/images/tHKLZkKZG.jpg" height="256">
 </sub>
 
 
 <details>
 <summary>More about the breed(s) shown:</summary>
 
-Breed: Maine Coon
+Breed: Russian Blue
 
-Description: They are known for their size and luxurious long coat Maine Coons are considered a gentle giant. The good-natured and affable Maine Coon adapts well to many lifestyles and personalities. She likes being with people and has the habit of following them around, but isn’t needy. Most Maine Coons love water and they can be quite good swimmers.
+Description: Russian Blues are very loving and reserved. They do not like noisy households but they do like to play and can be quite active when outdoors. They bond very closely with their owner and are known to be compatible with other pets.
 
 Links:
 <ul>
-  <li>CFA http://cfa.org/Breeds/BreedsKthruR/MaineCoon.aspx</li>
-  <li>Wikipedia https://en.wikipedia.org/wiki/Maine_Coon</li>
+  <li>CFA http://cfa.org/Breeds/BreedsKthruR/RussianBlue.aspx</li>
+  <li>Wikipedia https://en.wikipedia.org/wiki/Russian_Blue</li>
 </ul> 
 
 </details>
