@@ -15,21 +15,21 @@ Hello there!
 ## 🖼️ Catpost!
 
 <sub>
-    <img src="https://cdn2.thecatapi.com/images/wJyw82pIl.jpg" height="256">
+    <img src="https://cdn2.thecatapi.com/images/3rK7HGo7r.jpg" height="256">
 </sub>
 
 
 <details>
 <summary>More about the breed(s) shown:</summary>
 
-Breed: Norwegian Forest Cat
+Breed: Birman
 
-Description: The Norwegian Forest Cat is a sweet, loving cat. She appreciates praise and loves to interact with her parent. She makes a loving companion and bonds with her parents once she accepts them for her own. She is still a hunter at heart. She loves to chase toys as if they are real. She is territorial and patrols several times each day to make certain that all is fine.
+Description: The Birman is a docile, quiet cat who loves people and will follow them from room to room. Expect the Birman to want to be involved in what you’re doing. He communicates in a soft voice, mainly to remind you that perhaps it’s time for dinner or maybe for a nice cuddle on the sofa. He enjoys being held and will relax in your arms like a furry baby.
 
 Links:
 <ul>
-  <li>CFA http://cfa.org/Breeds/BreedsKthruR/NorwegianForestCat.aspx</li>
-  <li>Wikipedia https://en.wikipedia.org/wiki/Norwegian_Forest_Cat</li>
+  <li>CFA http://cfa.org/Breeds/BreedsAB/Birman.aspx</li>
+  <li>Wikipedia https://en.wikipedia.org/wiki/Birman</li>
 </ul> 
 
 </details>
