@@ -15,21 +15,21 @@ Hello there!
 ## 🖼️ Catpost!
 
 <sub>
-    <img src="https://cdn2.thecatapi.com/images/3dbtapCWM.jpg" height="256">
+    <img src="https://cdn2.thecatapi.com/images/BTiGuPOqW.jpg" height="256">
 </sub>
 
 
 <details>
 <summary>More about the breed(s) shown:</summary>
 
-Breed: Cymric
+Breed: Javanese
 
-Description: The Cymric is a placid, sweet cat. They do not get too upset about anything that happens in their world. They are loving companions and adore people. They are smart and dexterous, capable of using his paws to get into cabinets or to open doors.
+Description: Javanese are endlessly interested, intelligent and active. They tend to enjoy jumping to great heights, playing with fishing pole-type or other interactive toys and just generally investigating their surroundings. He will attempt to copy things you do, such as opening doors or drawers.
 
 Links:
 <ul>
   <li>CFA None available</li>
-  <li>Wikipedia https://en.wikipedia.org/wiki/Cymric_(cat)</li>
+  <li>Wikipedia https://en.wikipedia.org/wiki/Javanese_cat</li>
 </ul> 
 
 </details>
