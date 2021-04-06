@@ -15,21 +15,21 @@ Hello there!
 ## 🖼️ Catpost!
 
 <sub>
-    <img src="https://cdn2.thecatapi.com/images/JR48AEqts.jpg" height="256">
+    <img src="https://cdn2.thecatapi.com/images/k8T7xGG5O.jpg" height="256">
 </sub>
 
 
 <details>
 <summary>More about the breed(s) shown:</summary>
 
-Breed: Norwegian Forest Cat
+Breed: Korat
 
-Description: The Norwegian Forest Cat is a sweet, loving cat. She appreciates praise and loves to interact with her parent. She makes a loving companion and bonds with her parents once she accepts them for her own. She is still a hunter at heart. She loves to chase toys as if they are real. She is territorial and patrols several times each day to make certain that all is fine.
+Description: The Korat is a natural breed, and one of the oldest stable cat breeds. They are highly intelligent and confident cats that can be fearless, although they are startled by loud sounds and sudden movements. Korats form strong bonds with their people and like to cuddle and stay nearby.
 
 Links:
 <ul>
-  <li>CFA http://cfa.org/Breeds/BreedsKthruR/NorwegianForestCat.aspx</li>
-  <li>Wikipedia https://en.wikipedia.org/wiki/Norwegian_Forest_Cat</li>
+  <li>CFA http://cfa.org/Breeds/BreedsKthruR/Korat.aspx</li>
+  <li>Wikipedia https://en.wikipedia.org/wiki/Korat</li>
 </ul> 
 
 </details>
