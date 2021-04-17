@@ -15,21 +15,21 @@ Hello there!
 ## 🖼️ Catpost!
 
 <sub>
-    <img src="https://cdn2.thecatapi.com/images/klLnMZy3q.jpg" height="256">
+    <img src="https://cdn2.thecatapi.com/images/BbtRK5XT6.jpg" height="256">
 </sub>
 
 
 <details>
 <summary>More about the breed(s) shown:</summary>
 
-Breed: Turkish Van
+Breed: Siberian
 
-Description: While the Turkish Van loves to jump and climb, play with toys, retrieve and play chase, she is is big and ungainly; this is one cat who doesn’t always land on his feet. While not much of a lap cat, the Van will be happy to cuddle next to you and sleep in your bed. 
+Description: The Siberians dog like temperament and affection makes the ideal lap cat and will live quite happily indoors. Very agile and powerful, the Siberian cat can easily leap and reach high places, including the tops of refrigerators and even doors. 
 
 Links:
 <ul>
-  <li>CFA http://cfa.org/Breeds/BreedsSthruT/TurkishVan.aspx</li>
-  <li>Wikipedia https://en.wikipedia.org/wiki/Turkish_Van</li>
+  <li>CFA http://cfa.org/Breeds/BreedsSthruT/Siberian.aspx</li>
+  <li>Wikipedia https://en.wikipedia.org/wiki/Siberian_(cat)</li>
 </ul> 
 
 </details>
