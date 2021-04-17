@@ -15,21 +15,21 @@ Hello there!
 ## 🖼️ Catpost!
 
 <sub>
-    <img src="https://cdn2.thecatapi.com/images/BbtRK5XT6.jpg" height="256">
+    <img src="https://cdn2.thecatapi.com/images/7CGV6WVXq.jpg" height="256">
 </sub>
 
 
 <details>
 <summary>More about the breed(s) shown:</summary>
 
-Breed: Siberian
+Breed: Turkish Angora
 
-Description: The Siberians dog like temperament and affection makes the ideal lap cat and will live quite happily indoors. Very agile and powerful, the Siberian cat can easily leap and reach high places, including the tops of refrigerators and even doors. 
+Description: This is a smart and intelligent cat which bonds well with humans. With its affectionate and playful personality the Angora is a top choice for families. The Angora gets along great with other pets in the home, but it will make clear who is in charge, and who the house belongs to
 
 Links:
 <ul>
-  <li>CFA http://cfa.org/Breeds/BreedsSthruT/Siberian.aspx</li>
-  <li>Wikipedia https://en.wikipedia.org/wiki/Siberian_(cat)</li>
+  <li>CFA http://cfa.org/Breeds/BreedsSthruT/TurkishAngora.aspx</li>
+  <li>Wikipedia https://en.wikipedia.org/wiki/Turkish_Angora</li>
 </ul> 
 
 </details>
