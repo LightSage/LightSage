@@ -15,21 +15,21 @@ Hello there!
 ## 🖼️ Catpost!
 
 <sub>
-    <img src="https://cdn2.thecatapi.com/images/TKKtEJZVl.jpg" height="256">
+    <img src="https://cdn2.thecatapi.com/images/qinVu0VLV.jpg" height="256">
 </sub>
 
 
 <details>
 <summary>More about the breed(s) shown:</summary>
 
-Breed: Birman
+Breed: Chartreux
 
-Description: The Birman is a docile, quiet cat who loves people and will follow them from room to room. Expect the Birman to want to be involved in what you’re doing. He communicates in a soft voice, mainly to remind you that perhaps it’s time for dinner or maybe for a nice cuddle on the sofa. He enjoys being held and will relax in your arms like a furry baby.
+Description: The Chartreux is generally silent but communicative. Short play sessions, mixed with naps and meals are their perfect day. Whilst appreciating any attention you give them, they are not demanding, content instead to follow you around devotedly, sleep on your bed and snuggle with you if you’re not feeling well.
 
 Links:
 <ul>
-  <li>CFA http://cfa.org/Breeds/BreedsAB/Birman.aspx</li>
-  <li>Wikipedia https://en.wikipedia.org/wiki/Birman</li>
+  <li>CFA http://cfa.org/Breeds/BreedsCJ/Chartreux.aspx</li>
+  <li>Wikipedia https://en.wikipedia.org/wiki/Chartreux</li>
 </ul> 
 
 </details>
