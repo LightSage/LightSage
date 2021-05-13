@@ -15,21 +15,21 @@ Hello there!
 ## 🖼️ Catpost!
 
 <sub>
-    <img src="https://cdn2.thecatapi.com/images/TnwHiS7nO.jpg" height="256">
+    <img src="https://cdn2.thecatapi.com/images/BjIppqbNI.jpg" height="256">
 </sub>
 
 
 <details>
 <summary>More about the breed(s) shown:</summary>
 
-Breed: Ragdoll
+Breed: Cheetoh
 
-Description: Ragdolls love their people, greeting them at the door, following them around the house, and leaping into a lap or snuggling in bed whenever given the chance. They are the epitome of a lap cat, enjoy being carried and collapsing into the arms of anyone who holds them.
+Description: The Cheetoh has a super affectionate nature and real love for their human companions; they are intelligent with the ability to learn quickly. You can expect that a Cheetoh will be a fun-loving kitty who enjoys playing, running, and jumping through every room in your house.
 
 Links:
 <ul>
-  <li>CFA http://cfa.org/Breeds/BreedsKthruR/Ragdoll.aspx</li>
-  <li>Wikipedia https://en.wikipedia.org/wiki/Ragdoll</li>
+  <li>CFA None available</li>
+  <li>Wikipedia https://en.wikipedia.org/wiki/Bengal_cat#Cheetoh</li>
 </ul> 
 
 </details>
