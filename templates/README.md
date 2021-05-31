@@ -1,16 +1,8 @@
----
-
-<h1 align="center">
-LightSage
-</h1>
-
----
-
 Hello there!
 
-
+{% if pfp_link %}
 - Github PFP Sauce: {{ pfp_link }}
-
+{% endif %}
 
 ## 🖼️ Catpost!
 
