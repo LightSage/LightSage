@@ -6,7 +6,7 @@ TOKEN = os.getenv("DISCORD_TOKEN", None)
 JINJA_ENV = Environment(loader=FileSystemLoader('templates'))
 
 # User Related
-PFP_SAUCE_LINK = "https://www.pixiv.net/en/artworks/70160872"
+PFP_SAUCE_LINK = None
 DISCORD_ID = None  # 376012343777427457
 
 
