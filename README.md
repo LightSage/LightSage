@@ -5,21 +5,21 @@ Hello there!
 ## 🖼️ Catpost!
 
 <sub>
-    <img src="https://cdn2.thecatapi.com/images/YOjBThApG.jpg" height="256">
+    <img src="https://cdn2.thecatapi.com/images/qg0_IodJp.png" height="256">
 </sub>
 
 
 <details>
 <summary>More about the breed(s) shown:</summary>
 
-Breed: European Burmese
+Breed: Birman
 
-Description: The European Burmese is a very affectionate, intelligent, and loyal cat. They thrive on companionship and will want to be with you, participating in everything you do. While they might pick a favorite family member, chances are that they will interact with everyone in the home, as well as any visitors that come to call. They are inquisitive and playful, even as adults. 
+Description: The Birman is a docile, quiet cat who loves people and will follow them from room to room. Expect the Birman to want to be involved in what you’re doing. He communicates in a soft voice, mainly to remind you that perhaps it’s time for dinner or maybe for a nice cuddle on the sofa. He enjoys being held and will relax in your arms like a furry baby.
 
 Links:
 <ul>
-  <li>CFA http://cfa.org/Breeds/BreedsCJ/EuropeanBurmese.aspx</li>
-  <li>Wikipedia </li>
+  <li>CFA http://cfa.org/Breeds/BreedsAB/Birman.aspx</li>
+  <li>Wikipedia https://en.wikipedia.org/wiki/Birman</li>
 </ul> 
 
 </details>
