@@ -5,21 +5,21 @@ Hello there!
 ## 🖼️ Catpost!
 
 <sub>
-    <img src="https://cdn2.thecatapi.com/images/OTQ16PV9k.jpg" height="256">
+    <img src="https://cdn2.thecatapi.com/images/qBqs3R_w4.jpg" height="256">
 </sub>
 
 
 <details>
 <summary>More about the breed(s) shown:</summary>
 
-Breed: Tonkinese
+Breed: Ragdoll
 
-Description: Intelligent and generous with their affection, a Tonkinese will supervise all activities with curiosity. Loving, social, active, playful, yet content to be a lap cat
+Description: Ragdolls love their people, greeting them at the door, following them around the house, and leaping into a lap or snuggling in bed whenever given the chance. They are the epitome of a lap cat, enjoy being carried and collapsing into the arms of anyone who holds them.
 
 Links:
 <ul>
-  <li>CFA http://cfa.org/Breeds/BreedsSthruT/Tonkinese.aspx</li>
-  <li>Wikipedia https://en.wikipedia.org/wiki/Tonkinese_(cat)</li>
+  <li>CFA http://cfa.org/Breeds/BreedsKthruR/Ragdoll.aspx</li>
+  <li>Wikipedia https://en.wikipedia.org/wiki/Ragdoll</li>
 </ul> 
 
 </details>
