@@ -5,21 +5,21 @@ Hello there!
 ## 🖼️ Catpost!
 
 <sub>
-    <img src="https://cdn2.thecatapi.com/images/rWr-g-QVX.jpg" height="256">
+    <img src="https://cdn2.thecatapi.com/images/GI062lGTf.png" height="256">
 </sub>
 
 
 <details>
 <summary>More about the breed(s) shown:</summary>
 
-Breed: Norwegian Forest Cat
+Breed: European Burmese
 
-Description: The Norwegian Forest Cat is a sweet, loving cat. She appreciates praise and loves to interact with her parent. She makes a loving companion and bonds with her parents once she accepts them for her own. She is still a hunter at heart. She loves to chase toys as if they are real. She is territorial and patrols several times each day to make certain that all is fine.
+Description: The European Burmese is a very affectionate, intelligent, and loyal cat. They thrive on companionship and will want to be with you, participating in everything you do. While they might pick a favorite family member, chances are that they will interact with everyone in the home, as well as any visitors that come to call. They are inquisitive and playful, even as adults. 
 
 Links:
 <ul>
-  <li>CFA http://cfa.org/Breeds/BreedsKthruR/NorwegianForestCat.aspx</li>
-  <li>Wikipedia https://en.wikipedia.org/wiki/Norwegian_Forest_Cat</li>
+  <li>CFA http://cfa.org/Breeds/BreedsCJ/EuropeanBurmese.aspx</li>
+  <li>Wikipedia </li>
 </ul> 
 
 </details>
