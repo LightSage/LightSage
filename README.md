@@ -5,21 +5,21 @@ Hello there!
 ## 🖼️ Catpost!
 
 <sub>
-    <img src="https://cdn2.thecatapi.com/images/4-5SzDNIL.jpg" height="256">
+    <img src="https://cdn2.thecatapi.com/images/VsxceZVop.jpg" height="256">
 </sub>
 
 
 <details>
 <summary>More about the breed(s) shown:</summary>
 
-Breed: Bengal
+Breed: Toyger
 
-Description: Bengals are a lot of fun to live with, but they're definitely not the cat for everyone, or for first-time cat owners. Extremely intelligent, curious and active, they demand a lot of interaction and woe betide the owner who doesn't provide it.
+Description: The Toyger has a sweet, calm personality and is generally friendly. He's outgoing enough to walk on a leash, energetic enough to play fetch and other interactive games, and confident enough to get along with other cats and friendly dogs.
 
 Links:
 <ul>
-  <li>CFA http://cfa.org/Breeds/BreedsAB/Bengal.aspx</li>
-  <li>Wikipedia https://en.wikipedia.org/wiki/Bengal_(cat)</li>
+  <li>CFA None available</li>
+  <li>Wikipedia https://en.wikipedia.org/wiki/Toyger</li>
 </ul> 
 
 </details>
