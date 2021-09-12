@@ -3,7 +3,6 @@ import random
 import json
 
 import markovify
-import slowo
 
 from .constants import (MARKOV_GUILD_ID, MARKOV_CHANNEL_IDS, MARKOV_LIMIT,
                         MAKROV_SEND_CHANNEL)
@@ -37,4 +36,4 @@ async def do_markov(client):
         sentence = model.make_sentence(tries=100)
         if sentence is None:
             sentence = model.make_sentence()
-        await channel.send(slowo.UwU.ify(sentence))
+        await channel.send(sentence)

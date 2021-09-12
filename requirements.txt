@@ -2,4 +2,3 @@ Jinja2
 discord.py
 markovify
 requests
-slowo
