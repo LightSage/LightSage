@@ -5,21 +5,21 @@ Hello there!
 ## 🖼️ Catpost!
 
 <sub>
-    <img src="https://cdn2.thecatapi.com/images/fAYgJmLM8.jpg" height="256">
+    <img src="https://cdn2.thecatapi.com/images/uywhSIAHr.jpg" height="256">
 </sub>
 
 
 <details>
 <summary>More about the breed(s) shown:</summary>
 
-Breed: Pixie-bob
+Breed: Himalayan
 
-Description: Companionable and affectionate, the Pixie-bob wants to be an integral part of the family. The Pixie-Bob’s ability to bond with their humans along with their patient personas make them excellent companions for children.
+Description: Calm and devoted, Himalayans make excellent companions, though they prefer a quieter home. They are playful in a sedate kind of way and enjoy having an assortment of toys. The Himalayan will stretch out next to you, sleep in your bed and even sit on your lap when she is in the mood.
 
 Links:
 <ul>
   <li>CFA None available</li>
-  <li>Wikipedia https://en.wikipedia.org/wiki/Pixiebob</li>
+  <li>Wikipedia https://en.wikipedia.org/wiki/Himalayan_(cat)</li>
 </ul> 
 
 </details>
