@@ -5,21 +5,21 @@ Hello there!
 ## 🖼️ Catpost!
 
 <sub>
-    <img src="https://cdn2.thecatapi.com/images/JBkP_EJm9.jpg" height="256">
+    <img src="https://cdn2.thecatapi.com/images/kxUakBB2o.jpg" height="256">
 </sub>
 
 
 <details>
 <summary>More about the breed(s) shown:</summary>
 
-Breed: Singapura
+Breed: American Wirehair
 
-Description: The Singapura is usually cautious when it comes to meeting new people, but loves attention from his family so much that she sometimes has the reputation of being a pest. This is a highly active, curious and affectionate cat. She may be small, but she knows she’s in charge
+Description: The American Wirehair tends to be a calm and tolerant cat who takes life as it comes. His favorite hobby is bird-watching from a sunny windowsill, and his hunting ability will stand you in good stead if insects enter the house.
 
 Links:
 <ul>
-  <li>CFA http://cfa.org/Breeds/BreedsSthruT/Singapura.aspx</li>
-  <li>Wikipedia https://en.wikipedia.org/wiki/Singapura_(cat)</li>
+  <li>CFA http://cfa.org/Breeds/BreedsAB/AmericanWirehair.aspx</li>
+  <li>Wikipedia https://en.wikipedia.org/wiki/American_Wirehair</li>
 </ul> 
 
 </details>
