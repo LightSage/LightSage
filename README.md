@@ -5,21 +5,21 @@ Hello there!
 ## 🖼️ Catpost!
 
 <sub>
-    <img src="https://cdn2.thecatapi.com/images/y3l3iYWa4.jpg" height="256">
+    <img src="https://cdn2.thecatapi.com/images/c9sGDkRoi.jpg" height="256">
 </sub>
 
 
 <details>
 <summary>More about the breed(s) shown:</summary>
 
-Breed: Turkish Angora
+Breed: Sphynx
 
-Description: This is a smart and intelligent cat which bonds well with humans. With its affectionate and playful personality the Angora is a top choice for families. The Angora gets along great with other pets in the home, but it will make clear who is in charge, and who the house belongs to
+Description: The Sphynx is an intelligent, inquisitive, extremely friendly people-oriented breed. Sphynx commonly greet their owners  at the front door, with obvious excitement and happiness. She has an unexpected sense of humor that is often at odds with her dour expression.
 
 Links:
 <ul>
-  <li>CFA http://cfa.org/Breeds/BreedsSthruT/TurkishAngora.aspx</li>
-  <li>Wikipedia https://en.wikipedia.org/wiki/Turkish_Angora</li>
+  <li>CFA http://cfa.org/Breeds/BreedsSthruT/Sphynx.aspx</li>
+  <li>Wikipedia https://en.wikipedia.org/wiki/Sphynx_(cat)</li>
 </ul> 
 
 </details>
