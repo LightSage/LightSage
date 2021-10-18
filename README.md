@@ -5,21 +5,21 @@ Hello there!
 ## 🖼️ Catpost!
 
 <sub>
-    <img src="https://cdn2.thecatapi.com/images/TKKtEJZVl.jpg" height="256">
+    <img src="https://cdn2.thecatapi.com/images/tv8tNeYaU.jpg" height="256">
 </sub>
 
 
 <details>
 <summary>More about the breed(s) shown:</summary>
 
-Breed: Birman
+Breed: Abyssinian
 
-Description: The Birman is a docile, quiet cat who loves people and will follow them from room to room. Expect the Birman to want to be involved in what you’re doing. He communicates in a soft voice, mainly to remind you that perhaps it’s time for dinner or maybe for a nice cuddle on the sofa. He enjoys being held and will relax in your arms like a furry baby.
+Description: The Abyssinian is easy to care for, and a joy to have in your home. They’re affectionate cats and love both people and other animals.
 
 Links:
 <ul>
-  <li>CFA http://cfa.org/Breeds/BreedsAB/Birman.aspx</li>
-  <li>Wikipedia https://en.wikipedia.org/wiki/Birman</li>
+  <li>CFA http://cfa.org/Breeds/BreedsAB/Abyssinian.aspx</li>
+  <li>Wikipedia https://en.wikipedia.org/wiki/Abyssinian_(cat)</li>
 </ul> 
 
 </details>
