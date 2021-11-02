@@ -5,6 +5,6 @@ Hello there!
 ## 🖼️ Catpost!
 
 <sub>
-    <img src="https://cdn2.thecatapi.com/images/ebg.jpg" height="256">
+    <img src="https://cdn2.thecatapi.com/images/_3qblSpzm.jpg" height="256">
 </sub>
 
