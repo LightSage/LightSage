@@ -5,21 +5,21 @@ Hello there!
 ## 🖼️ Catpost!
 
 <sub>
-    <img src="https://cdn2.thecatapi.com/images/Kjf-Z_8YE.jpg" height="256">
+    <img src="https://cdn2.thecatapi.com/images/Kfq3biw92.png" height="256">
 </sub>
 
 
 <details>
 <summary>More about the breed(s) shown:</summary>
 
-Breed: Birman
+Breed: Scottish Fold
 
-Description: The Birman is a docile, quiet cat who loves people and will follow them from room to room. Expect the Birman to want to be involved in what you’re doing. He communicates in a soft voice, mainly to remind you that perhaps it’s time for dinner or maybe for a nice cuddle on the sofa. He enjoys being held and will relax in your arms like a furry baby.
+Description: The Scottish Fold is a sweet, charming breed. She is an easy cat to live with and to care for. She is affectionate and is comfortable with all members of her family. Her tail should be handled gently. Folds are known for sleeping on their backs, and for sitting with their legs stretched out and their paws on their belly. This is called the "Buddha Position".
 
 Links:
 <ul>
-  <li>CFA http://cfa.org/Breeds/BreedsAB/Birman.aspx</li>
-  <li>Wikipedia https://en.wikipedia.org/wiki/Birman</li>
+  <li>CFA http://cfa.org/Breeds/BreedsSthruT/ScottishFold.aspx</li>
+  <li>Wikipedia https://en.wikipedia.org/wiki/Scottish_Fold</li>
 </ul> 
 
 </details>
