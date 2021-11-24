@@ -5,21 +5,21 @@ Hello there!
 ## 🖼️ Catpost!
 
 <sub>
-    <img src="https://cdn2.thecatapi.com/images/0dR5LpzNO.jpg" height="256">
+    <img src="https://cdn2.thecatapi.com/images/5hmYjVhib.jpg" height="256">
 </sub>
 
 
 <details>
 <summary>More about the breed(s) shown:</summary>
 
-Breed: Selkirk Rex
+Breed: European Burmese
 
-Description: The Selkirk Rex is an incredibly patient, loving, and tolerant breed. The Selkirk also has a silly side and is sometimes described as clownish. She loves being a lap cat and will be happy to chat with you in a quiet voice if you talk to her. 
+Description: The European Burmese is a very affectionate, intelligent, and loyal cat. They thrive on companionship and will want to be with you, participating in everything you do. While they might pick a favorite family member, chances are that they will interact with everyone in the home, as well as any visitors that come to call. They are inquisitive and playful, even as adults. 
 
 Links:
 <ul>
-  <li>CFA http://cfa.org/Breeds/BreedsSthruT/SelkirkRex.aspx</li>
-  <li>Wikipedia https://en.wikipedia.org/wiki/Selkirk_Rex</li>
+  <li>CFA http://cfa.org/Breeds/BreedsCJ/EuropeanBurmese.aspx</li>
+  <li>Wikipedia </li>
 </ul> 
 
 </details>
