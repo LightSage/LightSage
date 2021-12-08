@@ -5,21 +5,21 @@ Hello there!
 ## 🖼️ Catpost!
 
 <sub>
-    <img src="https://cdn2.thecatapi.com/images/CWGNkdpA7.jpg" height="256">
+    <img src="https://cdn2.thecatapi.com/images/IOetZNghN.jpg" height="256">
 </sub>
 
 
 <details>
 <summary>More about the breed(s) shown:</summary>
 
-Breed: Korat
+Breed: Oriental
 
-Description: The Korat is a natural breed, and one of the oldest stable cat breeds. They are highly intelligent and confident cats that can be fearless, although they are startled by loud sounds and sudden movements. Korats form strong bonds with their people and like to cuddle and stay nearby.
+Description: Orientals are passionate about the people in their lives. They become extremely attached to their humans, so be prepared for a lifetime commitment. When you are not available to entertain her, an Oriental will divert herself by jumping on top of the refrigerator, opening drawers, seeking out new hideaways.
 
 Links:
 <ul>
-  <li>CFA http://cfa.org/Breeds/BreedsKthruR/Korat.aspx</li>
-  <li>Wikipedia https://en.wikipedia.org/wiki/Korat</li>
+  <li>CFA http://cfa.org/Breeds/BreedsKthruR/Oriental.aspx</li>
+  <li>Wikipedia https://en.wikipedia.org/wiki/Oriental_Shorthair</li>
 </ul> 
 
 </details>
