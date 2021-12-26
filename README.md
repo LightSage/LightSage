@@ -5,21 +5,21 @@ Hello there!
 ## 🖼️ Catpost!
 
 <sub>
-    <img src="https://cdn2.thecatapi.com/images/VuFcqjORh.jpg" height="256">
+    <img src="https://cdn2.thecatapi.com/images/2-AuRFDa9.jpg" height="256">
 </sub>
 
 
 <details>
 <summary>More about the breed(s) shown:</summary>
 
-Breed: Maine Coon
+Breed: Havana Brown
 
-Description: They are known for their size and luxurious long coat Maine Coons are considered a gentle giant. The good-natured and affable Maine Coon adapts well to many lifestyles and personalities. She likes being with people and has the habit of following them around, but isn’t needy. Most Maine Coons love water and they can be quite good swimmers.
+Description: The Havana Brown is human oriented, playful, and curious. She has a strong desire to spend time with her people and involve herself in everything they do. Being naturally inquisitive, the Havana Brown reaches out with a paw to touch and feel when investigating curiosities in its environment. They are truly sensitive by nature and frequently gently touch their human companions as if they are extending a paw of friendship.
 
 Links:
 <ul>
-  <li>CFA http://cfa.org/Breeds/BreedsKthruR/MaineCoon.aspx</li>
-  <li>Wikipedia https://en.wikipedia.org/wiki/Maine_Coon</li>
+  <li>CFA http://cfa.org/Breeds/BreedsCJ/HavanaBrown.aspx</li>
+  <li>Wikipedia https://en.wikipedia.org/wiki/Havana_Brown</li>
 </ul> 
 
 </details>
