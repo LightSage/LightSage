@@ -5,21 +5,21 @@ Hello there!
 ## 🖼️ Catpost!
 
 <sub>
-    <img src="https://cdn2.thecatapi.com/images/7afi4uNFM.jpg" height="256">
+    <img src="https://cdn2.thecatapi.com/images/xNuSF5YWY.jpg" height="256">
 </sub>
 
 
 <details>
 <summary>More about the breed(s) shown:</summary>
 
-Breed: Norwegian Forest Cat
+Breed: British Shorthair
 
-Description: The Norwegian Forest Cat is a sweet, loving cat. She appreciates praise and loves to interact with her parent. She makes a loving companion and bonds with her parents once she accepts them for her own. She is still a hunter at heart. She loves to chase toys as if they are real. She is territorial and patrols several times each day to make certain that all is fine.
+Description: The British Shorthair is a very pleasant cat to have as a companion, ans is easy going and placid. The British is a fiercely loyal, loving cat and will attach herself to every one of her family members. While loving to play, she doesn't need hourly attention. If she is in the mood to play, she will find someone and bring a toy to that person. The British also plays well by herself, and thus is a good companion for single people.
 
 Links:
 <ul>
-  <li>CFA http://cfa.org/Breeds/BreedsKthruR/NorwegianForestCat.aspx</li>
-  <li>Wikipedia https://en.wikipedia.org/wiki/Norwegian_Forest_Cat</li>
+  <li>CFA http://cfa.org/Breeds/BreedsAB/BritishShorthair.aspx</li>
+  <li>Wikipedia https://en.wikipedia.org/wiki/British_Shorthair</li>
 </ul> 
 
 </details>
