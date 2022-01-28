@@ -5,21 +5,21 @@ Hello there!
 ## 🖼️ Catpost!
 
 <sub>
-    <img src="https://cdn2.thecatapi.com/images/uk0SrrBbQ.jpg" height="256">
+    <img src="https://cdn2.thecatapi.com/images/II9dOZmrw.jpg" height="256">
 </sub>
 
 
 <details>
 <summary>More about the breed(s) shown:</summary>
 
-Breed: Munchkin
+Breed: Selkirk Rex
 
-Description: The Munchkin is an outgoing cat who enjoys being handled. She has lots of energy and is faster and more agile than she looks. The shortness of their legs does not seem to interfere with their running and leaping abilities.
+Description: The Selkirk Rex is an incredibly patient, loving, and tolerant breed. The Selkirk also has a silly side and is sometimes described as clownish. She loves being a lap cat and will be happy to chat with you in a quiet voice if you talk to her. 
 
 Links:
 <ul>
-  <li>CFA None available</li>
-  <li>Wikipedia https://en.wikipedia.org/wiki/Munchkin_(cat)</li>
+  <li>CFA http://cfa.org/Breeds/BreedsSthruT/SelkirkRex.aspx</li>
+  <li>Wikipedia https://en.wikipedia.org/wiki/Selkirk_Rex</li>
 </ul> 
 
 </details>
