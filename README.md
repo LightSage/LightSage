@@ -5,21 +5,21 @@ Hello there!
 ## 🖼️ Catpost!
 
 <sub>
-    <img src="https://cdn2.thecatapi.com/images/7-1CtKMRr.jpg" height="256">
+    <img src="https://cdn2.thecatapi.com/images/IOqJ6RK7L.jpg" height="256">
 </sub>
 
 
 <details>
 <summary>More about the breed(s) shown:</summary>
 
-Breed: Australian Mist
+Breed: Scottish Fold
 
-Description: The Australian Mist thrives on human companionship. Tolerant of even the youngest of children, these friendly felines enjoy playing games and being part of the hustle and bustle of a busy household. They make entertaining companions for people of all ages, and are happy to remain indoors between dusk and dawn or to be wholly indoor pets.
+Description: The Scottish Fold is a sweet, charming breed. She is an easy cat to live with and to care for. She is affectionate and is comfortable with all members of her family. Her tail should be handled gently. Folds are known for sleeping on their backs, and for sitting with their legs stretched out and their paws on their belly. This is called the "Buddha Position".
 
 Links:
 <ul>
-  <li>CFA None available</li>
-  <li>Wikipedia https://en.wikipedia.org/wiki/Australian_Mist</li>
+  <li>CFA http://cfa.org/Breeds/BreedsSthruT/ScottishFold.aspx</li>
+  <li>Wikipedia https://en.wikipedia.org/wiki/Scottish_Fold</li>
 </ul> 
 
 </details>
