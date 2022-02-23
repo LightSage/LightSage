@@ -5,21 +5,21 @@ Hello there!
 ## 🖼️ Catpost!
 
 <sub>
-    <img src="https://cdn2.thecatapi.com/images/1u9NDHybY.jpg" height="256">
+    <img src="https://cdn2.thecatapi.com/images/sNSYauLG8.jpg" height="256">
 </sub>
 
 
 <details>
 <summary>More about the breed(s) shown:</summary>
 
-Breed: Exotic Shorthair
+Breed: York Chocolate
 
-Description: The Exotic Shorthair is a gentle friendly cat that has the same personality as the Persian. They love having fun, don’t mind the company of other cats and dogs, also love to curl up for a sleep in a safe place. Exotics love their own people, but around strangers they are cautious at first. Given time, they usually warm up to visitors.
+Description: York Chocolate cats are known to be true lap cats with a sweet temperament. They love to be cuddled and petted. Their curious nature makes them follow you all the time and participate in almost everything you do, even if it's related to water: unlike many other cats, York Chocolates love it.
 
 Links:
 <ul>
-  <li>CFA http://cfa.org/Breeds/BreedsCJ/Exotic.aspx</li>
-  <li>Wikipedia https://en.wikipedia.org/wiki/Exotic_Shorthair</li>
+  <li>CFA None available</li>
+  <li>Wikipedia https://en.wikipedia.org/wiki/York_Chocolate</li>
 </ul> 
 
 </details>
