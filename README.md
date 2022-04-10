@@ -5,21 +5,21 @@ Hello there!
 ## 🖼️ Catpost!
 
 <sub>
-    <img src="https://cdn2.thecatapi.com/images/KCJeb66J2.jpg" height="256">
+    <img src="https://cdn2.thecatapi.com/images/4lXnnfxac.jpg" height="256">
 </sub>
 
 
 <details>
 <summary>More about the breed(s) shown:</summary>
 
-Breed: Siamese
+Breed: Burmese
 
-Description: While Siamese cats are extremely fond of their people, they will follow you around and supervise your every move, being talkative and opinionated. They are a demanding and social cat, that do not like being left alone for long periods.
+Description: Burmese love being with people, playing with them, and keeping them entertained. They crave close physical contact and abhor an empty lap. They will follow their humans from room to room, and sleep in bed with them, preferably under the covers, cuddled as close as possible. At play, they will turn around to see if their human is watching and being entertained by their crazy antics.
 
 Links:
 <ul>
-  <li>CFA http://cfa.org/Breeds/BreedsSthruT/Siamese.aspx</li>
-  <li>Wikipedia https://en.wikipedia.org/wiki/Siamese_(cat)</li>
+  <li>CFA http://cfa.org/Breeds/BreedsAB/Burmese.aspx</li>
+  <li>Wikipedia https://en.wikipedia.org/wiki/Burmese_(cat)</li>
 </ul> 
 
 </details>
