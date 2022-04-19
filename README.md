@@ -5,21 +5,21 @@ Hello there!
 ## 🖼️ Catpost!
 
 <sub>
-    <img src="https://cdn2.thecatapi.com/images/CrZtoDsgj.jpg" height="256">
+    <img src="https://cdn2.thecatapi.com/images/wFQIf01uy.jpg" height="256">
 </sub>
 
 
 <details>
 <summary>More about the breed(s) shown:</summary>
 
-Breed: Japanese Bobtail
+Breed: Bambino
 
-Description: The Japanese Bobtail is an active, sweet, loving and highly intelligent breed. They love to be with people and play seemingly endlessly. They learn their name and respond to it. They bring toys to people and play fetch with a favorite toy for hours. Bobtails are social and are at their best when in the company of people. They take over the house and are not intimidated. If a dog is in the house, Bobtails assume Bobtails are in charge.
+Description: The Bambino is a breed of cat that was created as a cross between the Sphynx and the Munchkin breeds. The Bambino cat has short legs, large upright ears, and is usually hairless. They love to be handled and cuddled up on the laps of their family members.
 
 Links:
 <ul>
-  <li>CFA http://cfa.org/Breeds/BreedsCJ/JapaneseBobtail.aspx</li>
-  <li>Wikipedia https://en.wikipedia.org/wiki/Japanese_Bobtail</li>
+  <li>CFA None available</li>
+  <li>Wikipedia https://en.wikipedia.org/wiki/Bambino_cat</li>
 </ul> 
 
 </details>
