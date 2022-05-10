@@ -5,21 +5,21 @@ Hello there!
 ## 🖼️ Catpost!
 
 <sub>
-    <img src="https://cdn2.thecatapi.com/images/gMjW5RYB0.jpg" height="256">
+    <img src="https://cdn2.thecatapi.com/images/bL3lrUi1A.jpg" height="256">
 </sub>
 
 
 <details>
 <summary>More about the breed(s) shown:</summary>
 
-Breed: Cornish Rex
+Breed: LaPerm
 
-Description: This is a confident cat who loves people and will follow them around, waiting for any opportunity to sit in a lap or give a kiss. He enjoys being handled, making it easy to take him to the veterinarian or train him for therapy work. The Cornish Rex stay in kitten mode most of their lives and well into their senior years. 
+Description: LaPerms are gentle and affectionate but also very active. Unlike many active breeds, the LaPerm is also quite content to be a lap cat. The LaPerm will often follow your lead; that is, if they are busy playing and you decide to sit and relax, simply pick up your LaPerm and sit down with it, and it will stay in your lap, devouring the attention you give it.
 
 Links:
 <ul>
-  <li>CFA http://cfa.org/Breeds/BreedsCJ/CornishRex.aspx</li>
-  <li>Wikipedia https://en.wikipedia.org/wiki/Cornish_Rex</li>
+  <li>CFA http://cfa.org/Breeds/BreedsKthruR/LaPerm.aspx</li>
+  <li>Wikipedia https://en.wikipedia.org/wiki/LaPerm</li>
 </ul> 
 
 </details>
