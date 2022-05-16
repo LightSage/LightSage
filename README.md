@@ -5,21 +5,21 @@ Hello there!
 ## 🖼️ Catpost!
 
 <sub>
-    <img src="https://cdn2.thecatapi.com/images/nHrt_0PV3.jpg" height="256">
+    <img src="https://cdn2.thecatapi.com/images/f6TE5pt6f.jpg" height="256">
 </sub>
 
 
 <details>
 <summary>More about the breed(s) shown:</summary>
 
-Breed: Toyger
+Breed: Oriental
 
-Description: The Toyger has a sweet, calm personality and is generally friendly. He's outgoing enough to walk on a leash, energetic enough to play fetch and other interactive games, and confident enough to get along with other cats and friendly dogs.
+Description: Orientals are passionate about the people in their lives. They become extremely attached to their humans, so be prepared for a lifetime commitment. When you are not available to entertain her, an Oriental will divert herself by jumping on top of the refrigerator, opening drawers, seeking out new hideaways.
 
 Links:
 <ul>
-  <li>CFA None available</li>
-  <li>Wikipedia https://en.wikipedia.org/wiki/Toyger</li>
+  <li>CFA http://cfa.org/Breeds/BreedsKthruR/Oriental.aspx</li>
+  <li>Wikipedia https://en.wikipedia.org/wiki/Oriental_Shorthair</li>
 </ul> 
 
 </details>
