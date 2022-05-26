@@ -5,21 +5,21 @@ Hello there!
 ## 🖼️ Catpost!
 
 <sub>
-    <img src="https://cdn2.thecatapi.com/images/KWVenr3Pq.jpg" height="256">
+    <img src="https://cdn2.thecatapi.com/images/9K-Lvmafl.jpg" height="256">
 </sub>
 
 
 <details>
 <summary>More about the breed(s) shown:</summary>
 
-Breed: Donskoy
+Breed: Siberian
 
-Description: Donskoy are affectionate, intelligent, and easy-going. They demand lots of attention and interaction. The Donskoy also gets along well with other pets. It is now thought the same gene that causes degrees of hairlessness in the Donskoy also causes alterations in cat personality, making them calmer the less hair they have.
+Description: The Siberians dog like temperament and affection makes the ideal lap cat and will live quite happily indoors. Very agile and powerful, the Siberian cat can easily leap and reach high places, including the tops of refrigerators and even doors. 
 
 Links:
 <ul>
-  <li>CFA None available</li>
-  <li>Wikipedia https://en.wikipedia.org/wiki/Donskoy_(cat)</li>
+  <li>CFA http://cfa.org/Breeds/BreedsSthruT/Siberian.aspx</li>
+  <li>Wikipedia https://en.wikipedia.org/wiki/Siberian_(cat)</li>
 </ul> 
 
 </details>
