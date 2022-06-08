@@ -5,21 +5,21 @@ Hello there!
 ## 🖼️ Catpost!
 
 <sub>
-    <img src="https://cdn2.thecatapi.com/images/tSbM4vHB_.png" height="256">
+    <img src="https://cdn2.thecatapi.com/images/b6Co9acGP.jpg" height="256">
 </sub>
 
 
 <details>
 <summary>More about the breed(s) shown:</summary>
 
-Breed: Persian
+Breed: British Shorthair
 
-Description: Persians are sweet, gentle cats that can be playful or quiet and laid-back. Great with families and children, they absolutely love to lounge around the house. While they don’t mind a full house or active kids, they’ll usually hide when they need some alone time.
+Description: The British Shorthair is a very pleasant cat to have as a companion, ans is easy going and placid. The British is a fiercely loyal, loving cat and will attach herself to every one of her family members. While loving to play, she doesn't need hourly attention. If she is in the mood to play, she will find someone and bring a toy to that person. The British also plays well by herself, and thus is a good companion for single people.
 
 Links:
 <ul>
-  <li>CFA http://cfa.org/Breeds/BreedsKthruR/Persian.aspx</li>
-  <li>Wikipedia https://en.wikipedia.org/wiki/Persian_(cat)</li>
+  <li>CFA http://cfa.org/Breeds/BreedsAB/BritishShorthair.aspx</li>
+  <li>Wikipedia https://en.wikipedia.org/wiki/British_Shorthair</li>
 </ul> 
 
 </details>
