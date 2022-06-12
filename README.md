@@ -5,21 +5,21 @@ Hello there!
 ## 🖼️ Catpost!
 
 <sub>
-    <img src="https://cdn2.thecatapi.com/images/OUfeISEoi.jpg" height="256">
+    <img src="https://cdn2.thecatapi.com/images/N0cPNDdpW.jpg" height="256">
 </sub>
 
 
 <details>
 <summary>More about the breed(s) shown:</summary>
 
-Breed: Nebelung
+Breed: Siamese
 
-Description: The Nebelung may have a reserved nature, but she loves to play (being especially fond of retrieving) and enjoys jumping or climbing to high places where she can study people and situations at her leisure before making up her mind about whether she wants to get involved.
+Description: While Siamese cats are extremely fond of their people, they will follow you around and supervise your every move, being talkative and opinionated. They are a demanding and social cat, that do not like being left alone for long periods.
 
 Links:
 <ul>
-  <li>CFA None available</li>
-  <li>Wikipedia https://en.wikipedia.org/wiki/Nebelung</li>
+  <li>CFA http://cfa.org/Breeds/BreedsSthruT/Siamese.aspx</li>
+  <li>Wikipedia https://en.wikipedia.org/wiki/Siamese_(cat)</li>
 </ul> 
 
 </details>
