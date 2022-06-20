@@ -5,21 +5,21 @@ Hello there!
 ## 🖼️ Catpost!
 
 <sub>
-    <img src="https://cdn2.thecatapi.com/images/O4yjcTJOh.jpg" height="256">
+    <img src="https://cdn2.thecatapi.com/images/Sh_ce5dcl.png" height="256">
 </sub>
 
 
 <details>
 <summary>More about the breed(s) shown:</summary>
 
-Breed: Siamese
+Breed: Norwegian Forest Cat
 
-Description: While Siamese cats are extremely fond of their people, they will follow you around and supervise your every move, being talkative and opinionated. They are a demanding and social cat, that do not like being left alone for long periods.
+Description: The Norwegian Forest Cat is a sweet, loving cat. She appreciates praise and loves to interact with her parent. She makes a loving companion and bonds with her parents once she accepts them for her own. She is still a hunter at heart. She loves to chase toys as if they are real. She is territorial and patrols several times each day to make certain that all is fine.
 
 Links:
 <ul>
-  <li>CFA http://cfa.org/Breeds/BreedsSthruT/Siamese.aspx</li>
-  <li>Wikipedia https://en.wikipedia.org/wiki/Siamese_(cat)</li>
+  <li>CFA http://cfa.org/Breeds/BreedsKthruR/NorwegianForestCat.aspx</li>
+  <li>Wikipedia https://en.wikipedia.org/wiki/Norwegian_Forest_Cat</li>
 </ul> 
 
 </details>
