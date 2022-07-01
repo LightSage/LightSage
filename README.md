@@ -5,21 +5,21 @@ Hello there!
 ## 🖼️ Catpost!
 
 <sub>
-    <img src="https://cdn2.thecatapi.com/images/XcoqcsVzT.jpg" height="256">
+    <img src="https://cdn2.thecatapi.com/images/BtoHr0-4b.jpg" height="256">
 </sub>
 
 
 <details>
 <summary>More about the breed(s) shown:</summary>
 
-Breed: Cornish Rex
+Breed: Norwegian Forest Cat
 
-Description: This is a confident cat who loves people and will follow them around, waiting for any opportunity to sit in a lap or give a kiss. He enjoys being handled, making it easy to take him to the veterinarian or train him for therapy work. The Cornish Rex stay in kitten mode most of their lives and well into their senior years. 
+Description: The Norwegian Forest Cat is a sweet, loving cat. She appreciates praise and loves to interact with her parent. She makes a loving companion and bonds with her parents once she accepts them for her own. She is still a hunter at heart. She loves to chase toys as if they are real. She is territorial and patrols several times each day to make certain that all is fine.
 
 Links:
 <ul>
-  <li>CFA http://cfa.org/Breeds/BreedsCJ/CornishRex.aspx</li>
-  <li>Wikipedia https://en.wikipedia.org/wiki/Cornish_Rex</li>
+  <li>CFA http://cfa.org/Breeds/BreedsKthruR/NorwegianForestCat.aspx</li>
+  <li>Wikipedia https://en.wikipedia.org/wiki/Norwegian_Forest_Cat</li>
 </ul> 
 
 </details>
