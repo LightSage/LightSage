@@ -5,21 +5,21 @@ Hello there!
 ## 🖼️ Catpost!
 
 <sub>
-    <img src="https://cdn2.thecatapi.com/images/dN6eoeLjY.jpg" height="256">
+    <img src="https://cdn2.thecatapi.com/images/oSpqGyUDS.jpg" height="256">
 </sub>
 
 
 <details>
 <summary>More about the breed(s) shown:</summary>
 
-Breed: Bengal
+Breed: Colorpoint Shorthair
 
-Description: Bengals are a lot of fun to live with, but they're definitely not the cat for everyone, or for first-time cat owners. Extremely intelligent, curious and active, they demand a lot of interaction and woe betide the owner who doesn't provide it.
+Description: Colorpoint Shorthairs are an affectionate breed, devoted and loyal to their people. Sensitive to their owner’s moods, Colorpoints are more than happy to sit at your side or on your lap and purr words of encouragement on a bad day. They will constantly seek out your lap whenever it is open and in the moments when your lap is preoccupied they will stretch out in sunny spots on the ground.
 
 Links:
 <ul>
-  <li>CFA http://cfa.org/Breeds/BreedsAB/Bengal.aspx</li>
-  <li>Wikipedia https://en.wikipedia.org/wiki/Bengal_(cat)</li>
+  <li>CFA http://cfa.org/Breeds/BreedsCJ/ColorpointShorthair.aspx</li>
+  <li>Wikipedia https://en.wikipedia.org/wiki/Colorpoint_Shorthair</li>
 </ul> 
 
 </details>
