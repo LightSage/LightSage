@@ -5,21 +5,21 @@ Hello there!
 ## 🖼️ Catpost!
 
 <sub>
-    <img src="https://cdn2.thecatapi.com/images/me56sI74P.jpg" height="256">
+    <img src="https://cdn2.thecatapi.com/images/ZDIuYg5UZ.png" height="256">
 </sub>
 
 
 <details>
 <summary>More about the breed(s) shown:</summary>
 
-Breed: Himalayan
+Breed: Turkish Angora
 
-Description: Calm and devoted, Himalayans make excellent companions, though they prefer a quieter home. They are playful in a sedate kind of way and enjoy having an assortment of toys. The Himalayan will stretch out next to you, sleep in your bed and even sit on your lap when she is in the mood.
+Description: This is a smart and intelligent cat which bonds well with humans. With its affectionate and playful personality the Angora is a top choice for families. The Angora gets along great with other pets in the home, but it will make clear who is in charge, and who the house belongs to
 
 Links:
 <ul>
-  <li>CFA None available</li>
-  <li>Wikipedia https://en.wikipedia.org/wiki/Himalayan_(cat)</li>
+  <li>CFA http://cfa.org/Breeds/BreedsSthruT/TurkishAngora.aspx</li>
+  <li>Wikipedia https://en.wikipedia.org/wiki/Turkish_Angora</li>
 </ul> 
 
 </details>
