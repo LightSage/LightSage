@@ -14,7 +14,7 @@ if __name__ == "__main__":
     else:
         template = constants.JINJA_ENV.get_template("README.md")
 
-    client.client.run(str(constants.TOKEN))
+    # client.client.run(str(constants.TOKEN))
 
     cnts = get_json_constants()
 
