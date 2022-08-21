@@ -1,5 +1,5 @@
 import json
-from sage import client, constants, catpost
+from sage import constants, catpost
 
 
 def get_json_constants():
